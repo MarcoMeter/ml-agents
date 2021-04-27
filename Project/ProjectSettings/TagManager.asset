@@ -66,3 +66,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG
+    uniqueID: 2206711343
+    locked: 0
+  - name: Level
+    uniqueID: 3975448333
+    locked: 0
+  - name: Entities
+    uniqueID: 998328355
+    locked: 0
+  - name: Agent
+    uniqueID: 2940028109
+    locked: 0
